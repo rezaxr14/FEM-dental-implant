@@ -1,0 +1,64 @@
+# Save by rezax on 2025_07_27-14.01.43; build 2022 2021_09_15-21.27.30 176069
+from abaqus import *
+upgradeMdb('C:/Users/rezax/Downloads/Telegram Desktop/implantcrack-2019.cae', 
+    'C:/Users/rezax/Downloads/Telegram Desktop/implantcrack.cae')
+# Save by rezax on 2025_07_27-14.01.43; build 2022 2021_09_15-21.27.30 176069
+from part import *
+from material import *
+from section import *
+from assembly import *
+from step import *
+from interaction import *
+from load import *
+from mesh import *
+from optimization import *
+from job import *
+from sketch import *
+from visualization import *
+from connectorBehavior import *
+del mdb.jobs['Job-xfem-7']
+del mdb.jobs['Job-xfem-6']
+del mdb.jobs['Job-xfem-5']
+del mdb.jobs['Job-xfem-3']
+del mdb.jobs['Job-xfem-1']
+del mdb.jobs['Job-differentcrack']
+del mdb.jobs['Job-crack-4']
+del mdb.jobs['Job-crack-3']
+del mdb.jobs['Job-crack-2']
+del mdb.jobs['Job-crack-1']
+del mdb.jobs['Job-95']
+del mdb.jobs['Job-19']
+del mdb.jobs['Job-16']
+del mdb.jobs['Job-10']
+del mdb.jobs['Job-9']
+del mdb.jobs['Job-8']
+del mdb.jobs['Job-7']
+del mdb.jobs['Job-6']
+del mdb.jobs['Job-5']
+del mdb.jobs['Job-4']
+del mdb.jobs['Job-3']
+del mdb.jobs['Job-1-2-crack']
+del mdb.jobs['Job-1-1-newproperty']
+del mdb.jobs['Job-1-1-crack']
+del mdb.jobs['Job-1']
+del mdb.jobs['Job-012']
+# Save by rezax on 2025_10_29-15.21.43; build 2022 2021_09_15-21.27.30 176069
+from part import *
+from material import *
+from section import *
+from assembly import *
+from step import *
+from interaction import *
+from load import *
+from mesh import *
+from optimization import *
+from job import *
+from sketch import *
+from visualization import *
+from connectorBehavior import *
+del mdb.models['Model-1-1'].parts['Part-5']
+del mdb.models['Model-1-nopitch']
+del mdb.models['Model-1-2']
+del mdb.models['Model-1-1']
+del mdb.models['Model-2'].parts['Part-5']
+# Save by rezax on 2025_10_29-15.24.22; build 2022 2021_09_15-21.27.30 176069
