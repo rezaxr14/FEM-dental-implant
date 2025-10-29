@@ -9,6 +9,10 @@ This analysis was performed using Abaqus/Standard.
 <img src="crack_development.jpg" alt="Abaqus Crack Analysis Results" width="49%">
 </p>
 <p align="center">
+<img src="crack_top_view.jpg" alt="Abaqus Crack Visualization" width="49%">
+<img src="mesh_top_view.jpg" alt="Abaqus Mesh View" width="49%">
+</p>
+<p align="center">
 <img src="mesh.png" alt="Abaqus Meshed Model" width="32%">
 <img src="load.png" alt="Abaqus Boundary Conditions" width="32%">
 <img src="general.png" alt="Abaqus General Geometry" width="32%">
