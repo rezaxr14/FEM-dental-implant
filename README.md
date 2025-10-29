@@ -9,8 +9,8 @@ This analysis was performed using Abaqus/Standard.
 <img src="crack_development.jpg" alt="Abaqus Crack Analysis Results" width="49%">
 </p>
 <p align="center">
-<img src="crack_top_view.jpg" alt="Abaqus Crack Visualization" width="49%">
-<img src="mesh_top_view.jpg" alt="Abaqus Mesh View" width="49%">
+<img src="crack_view.jpg" alt="Abaqus Crack Visualization" width="49%">
+<img src="mesh_view.jpg" alt="Abaqus Mesh View" width="49%">
 </p>
 <p align="center">
 <img src="mesh.png" alt="Abaqus Meshed Model" width="32%">
