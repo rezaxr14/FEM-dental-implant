@@ -5,15 +5,13 @@ This repository contains the models, results, and analysis files for a Finite El
 This analysis was performed using Abaqus/Standard.
 
 <p align="center">
-<!-- Row 1: Two Main Visualization Images (50% width each) -->
-<img src="./images/photo_2025-10-29_08-18-15.jpg" alt="Abaqus Stress Visualization" width="49%">
-<img src="./images/photo_2025-10-29_08-18-26.jpg" alt="Abaqus Crack Analysis Results" width="49%">
+<img src="visuallazation.jpg" alt="Abaqus Stress Visualization" width="49%">
+<img src="crack_development.jpg" alt="Abaqus Crack Analysis Results" width="49%">
 </p>
 <p align="center">
-<!-- Row 2: Three Supporting Images (33% width each) -->
-<img src="./images/Screenshot 2025-10-29 151409.png" alt="Abaqus Meshed Model" width="32%">
-<img src="./images/Screenshot 2025-10-29 151452.png" alt="Abaqus Boundary Conditions" width="32%">
-<img src="./images/Screenshot 2025-10-29 151351.png" alt="Abaqus General Geometry" width="32%">
+<img src="mesh.png" alt="Abaqus Meshed Model" width="32%">
+<img src="load.png" alt="Abaqus Boundary Conditions" width="32%">
+<img src="general.png" alt="Abaqus General Geometry" width="32%">
 </p>
 
 Project Overview
